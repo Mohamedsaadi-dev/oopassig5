@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "oopassig5": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
